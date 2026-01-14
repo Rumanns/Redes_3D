@@ -1,58 +1,60 @@
-# REDES 3D
+### REDES 3D
 
-# \[Badges: build, version, license, etc]
+\[Badges: build, version, license, etc]
 
-# 
 
-# 📋 Sobre o Projeto
 
-# Visualização 3d de redes de IA
+### 📋 Sobre o Projeto
 
-# 
+Visualização 3d de redes de IA.
 
-# 🚀 Começando
 
-# Pré-requisitos
 
-# \[Badges: build, version, license, etc]
+### 🚀 Começando
 
-# 
+*(Seu "Como Usar" - mas com subseções)*
 
-# Instalação
 
-# \[Badges: build, version, license, etc]
 
-# 
+#### Pré-requisitos
 
-# Uso Básico
+*(descrição)*
 
-# \[Badges: build, version, license, etc]
 
-# 
 
-# 🧪 Testes
+#### Instalação
 
-# (Testes realizados)
+*(descrição)*
 
-# 
 
-# 📊 Resultados
 
-# (Resultados obtidos)
+#### Uso Básico
 
-# 
+*(descrição)*
 
-# 🏗️ Estrutura do Projeto
 
-# (Estrutura de pastas e scripts do projeto)
 
-# 
+### 🧪 Testes
 
-# 🤝 Contribuição
+*(Que tipos de testes se mostraram promissores? Quais metodologias e/ou estatísticas foram usadas?)*
 
-# (O projeto serviu para)
 
-# 
+
+### 📊 Resultados
+
+*(A partir dos testes, quais foram os resultados obtidos? Supriram as expectative ou foram aquém delas?)*
+
+
+
+### 🏗️ Estrutura do Projeto
+
+*(Opcional, mas útil)*
+
+
+
+### 🤝 Contribuição
+
+*(Opcional, mas importante para projetos open source)*
 
 
 

@@ -1,60 +1,70 @@
 ### REDES 3D
 
-\[Badges: build, version, license, etc]
+A ideia é projetar em 3D as camadas de uma IA e seu funcionamento.
 
 
 
-### 📋 Sobre o Projeto
+### Sobre o Projeto 📋
 
 Visualização 3d de redes de IA.
 
 
 
-### 🚀 Começando
+### Começando 🚀
 
-*(Seu "Como Usar" - mas com subseções)*
+*Basta ter o Blender instalado e abrir os projetinhos.*
+
+*Para rodar, é só abrir a parte script no blender e clicar em "play", ou apertar "alt+p"*
 
 
 
 #### Pré-requisitos
 
-*(descrição)*
+*Blender 4.0, ou posterior.*
+
+*Bibliotecas: bpy, math, mathutils*
 
 
 
 #### Instalação
 
-*(descrição)*
+*Basta baixar o blender do site oficial (https://www.blender.org/) e instalar.*
 
 
 
 #### Uso Básico
 
-*(descrição)*
+*Abrir o projeto e rodar o script.*
 
 
 
-### 🧪 Testes
+### Testes 🧪
 
-*(Que tipos de testes se mostraram promissores? Quais metodologias e/ou estatísticas foram usadas?)*
-
-
-
-### 📊 Resultados
-
-*(A partir dos testes, quais foram os resultados obtidos? Supriram as expectative ou foram aquém delas?)*
+*Cada camada foi criada de maneira muito fiel ao que se esperava. Porém, pode ficar confuso quando existem muitas camadas ou muitos "nós".*
 
 
 
-### 🏗️ Estrutura do Projeto
+### Resultados 📊
 
-*(Opcional, mas útil)*
-
-
-
-### 🤝 Contribuição
-
-*(Opcional, mas importante para projetos open source)*
+*Os resultados foram exatamente como esperados. O blender recriando objetos simulando cada neurônio e ligando todos de uma camada para outra.*
 
 
+
+### Estrutura do Projeto 🏗️
+
+Redes\_3D/
+
+│
+
+├──Redes 3D SIMPLES.blend
+
+├──Redes 3D VISTA 2D.blend
+
+└──Redes 3D.blend
+
+
+
+### Contribuição 🤝
+
+*Observar claramente como uma IA funciona.*
 
